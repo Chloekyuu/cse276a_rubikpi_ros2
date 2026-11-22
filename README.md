@@ -59,7 +59,7 @@ CSE276/
 │   ├── hw2_report.md
 │   ├── hw3_report.md
 │   ├── hw4_report.md
-│   ├── original_pdfs/               # Original HW2–HW4 submissions
+│   ├── report_pdfs/               # Original HW2–HW4 submissions
 │   └── images/                      # HW2 trajectory, HW3 maps, HW4 plots
 ├── robot_control/
 │   └── robot_control/
@@ -82,5 +82,3 @@ CSE276/
 - [Robot control package](robot_control/) — control, logging, navigation and plotting scripts.
 - [Landmark configuration](robot_control/robot_control/landmarks.py) — landmark-related code.
 - [Motor controller](robot_control/robot_control/motor_control.py) — actuator command interface.
-
-> **Integration:** This archive contains only `README.md` and `reports/`. Extract or copy both into the **root** of your existing `CSE276/` repository. Code hyperlinks resolve against the source files already in your workspace; source code is not duplicated in this documentation archive. HW4 video links remain unfilled in the supplied report.
