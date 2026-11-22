@@ -6,10 +6,10 @@ ROS 2 coursework projects covering **differential-drive control**, **AprilTag-ba
 
 | Homework | Topic | Implementation | Report |
 |---|---|---|---|
-| **HW1** | Open-loop waypoint tracking and motor calibration | [`waypoint_controller.py`](robot_control/robot_control/waypoint_controller.py) | [HW1 report](reports/hw1_report.md) |
-| **HW2** | Camera-calibrated AprilTag localization and closed-loop waypoint control | [`hw2_waypoint_controller.py`](robot_control/robot_control/hw2_waypoint_controller.py) | [HW2 Markdown report](reports/hw2_report.md) · [Original PDF](reports/original_pdfs/hw2_report.pdf) |
-| **HW3** | Online EKF-SLAM with unknown landmarks and loop-closure evaluation | [`hw3_slam.py`](robot_control/robot_control/hw3_slam.py) | [HW3 Markdown report](reports/hw3_report.md) · [Original PDF](reports/original_pdfs/hw3_report.pdf) |
-| **HW4** | Minimum-distance visibility graph vs. clearance-aware RRT path planning | [`hw4_plan.py`](robot_control/robot_control/hw4_plan.py) · [`hw4_controller.py`](robot_control/robot_control/hw4_controller.py) · [`hw4_plot.py`](robot_control/robot_control/hw4_plot.py) | [HW4 Markdown report](reports/hw4_report.md) · [Original PDF](reports/original_pdfs/hw4_report.pdf) |
+| **HW1** | Open-loop waypoint tracking and motor calibration | [`waypoint_controller.py`](robot_control/robot_control/waypoint_controller.py) | [HW1 report](reports/hw1_report.md) · [PDF](reports/report_pdfs/hw1_report.pdf) |
+| **HW2** | Camera-calibrated AprilTag localization and closed-loop waypoint control | [`hw2_waypoint_controller.py`](robot_control/robot_control/hw2_waypoint_controller.py) | [HW2 Markdown report](reports/hw2_report.md) · [PDF](reports/report_pdfs/hw2_report.pdf) |
+| **HW3** | Online EKF-SLAM with unknown landmarks and loop-closure evaluation | [`hw3_slam.py`](robot_control/robot_control/hw3_slam.py) | [HW3 Markdown report](reports/hw3_report.md) · [PDF](reports/report_pdfs/hw3_report.pdf) |
+| **HW4** | Minimum-distance visibility graph vs. clearance-aware RRT path planning | [`hw4_plan.py`](robot_control/robot_control/hw4_plan.py) · [`hw4_controller.py`](robot_control/robot_control/hw4_controller.py) · [`hw4_plot.py`](robot_control/robot_control/hw4_plot.py) | [HW4 Markdown report](reports/hw4_report.md) · [PDF](reports/report_pdfs/hw4_report.pdf) |
 
 ## HW1 — Open-loop waypoint navigation
 
